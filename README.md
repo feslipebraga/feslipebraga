@@ -1,7 +1,6 @@
 ## Olá, mundo! Me chamo Felipe Braga 🤠
 
 - Estudante de Sistemas de Informação 💻
-- Estagiário de Suporte Técnico 🖱️
 - Apaixonado por desenvolvimento 🧑‍💻
 
 <div> 
