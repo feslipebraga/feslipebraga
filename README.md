@@ -1,7 +1,7 @@
-## Olá, mundo! Me chamo Felipe Braga 🤠
+## </Hello World, I'm Felipe Braga 👾>
 
-- Estudante de Sistemas de Informação 💻
-- Apaixonado por desenvolvimento 🧑‍💻
+- Systems Information student 💻
+- I love development 🧑‍💻
 
 <div> 
   <a href="https://github.com/feslipebraga">
